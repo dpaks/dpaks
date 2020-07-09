@@ -2,7 +2,9 @@
 
 🔭 I've a good experience on cloud and networking stuff and that's what I work on :)
 
-📫 Reach me at in.live.in@live.in
+🌱 Do check the goworkers repository for a really cool worker pool in Golang 😄
+
+📫 Reach me at deepaks@outlook.in
 <!--
 **dpaks/dpaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
