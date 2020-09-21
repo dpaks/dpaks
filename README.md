@@ -1,7 +1,5 @@
 ### Hi there 👋, thanks for the visit!
 
-🔭 I've a good experience on cloud and networking stuff and that's what I work on :)
-
 🌱 Do check the goworkers repository for a really cool worker pool in Golang 😄
 
 📫 Reach me at deepaks@outlook.in
